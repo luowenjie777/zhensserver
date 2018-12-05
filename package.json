@@ -1,0 +1,22 @@
+{
+  "name": "zhensserver",
+  "version": "1.0.0",
+  "description": "A server that belongs to Zhen and is deployed with Hapi, IBM Bluemix and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luowenjie777/zhensserver.git"
+  },
+  "keywords": [
+    "Zhen"
+  ],
+  "author": "Luo Zhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luowenjie777/zhensserver/issues"
+  },
+  "homepage": "https://github.com/luowenjie777/zhensserver#readme"
+}
