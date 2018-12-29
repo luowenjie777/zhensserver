@@ -45,3 +45,5 @@ https://en.m.wikipedia.org/wiki/X86_memory_segmentation
 https://www.cnblogs.com/swnuwangyun/p/4062172.html
 https://www.cnblogs.com/yzy6806555/archive/2013/05/22/3092905.html
 https://www.cnblogs.com/sunt/archive/2010/11/25/1887657.html
+https://stackoverflow.com/questions/29430762/what-is-the-difference-if-any-between-long-and-far-jumps-in-assembly
+https://blog.delphij.net/2009/10/free.html
