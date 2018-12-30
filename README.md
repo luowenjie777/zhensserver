@@ -1,7 +1,6 @@
 # zhensserver
-https://stackoverflow.com/questions/40492518/is-an-import-in-python-considered-to-be-dynamic-linking
 https://www.52pojie.cn/thread-286822-1-1.html
-https://bbs.pediy.com/thread-223105.htm
+https://www.cnblogs.com/gd-luojialin/p/6852179.html
 https://www.baidu.com/from=844b/s?word=%E6%8E%83%E8%82%89%E9%9B%9E&ts=3950807&t_kt=0&ie=utf-8&fm_kl=021394be2f&rsv_iqid=1540266735&rsv_t=d9ebQCsTKlzYPk79xLJ0peSRJKpIzcM1WQhDxCvHJlKZpJMzDgZRqAjetg&sa=ib&ms=1&rsv_pq=1540266735&rsv_sug4=8656&ss=110&tj=1&inputT=6215
 https://blog.csdn.net/dpsying/article/details/51893986
 http://duramecho.com/ComputerInformation/WhyHowCppConst.html
