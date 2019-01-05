@@ -1,7 +1,3 @@
-# zhensserver
-https://www.52pojie.cn/thread-286822-1-1.html
-https://www.cnblogs.com/gd-luojialin/p/6852179.html
-https://www.baidu.com/from=844b/s?word=%E6%8E%83%E8%82%89%E9%9B%9E&ts=3950807&t_kt=0&ie=utf-8&fm_kl=021394be2f&rsv_iqid=1540266735&rsv_t=d9ebQCsTKlzYPk79xLJ0peSRJKpIzcM1WQhDxCvHJlKZpJMzDgZRqAjetg&sa=ib&ms=1&rsv_pq=1540266735&rsv_sug4=8656&ss=110&tj=1&inputT=6215
 https://blog.csdn.net/dpsying/article/details/51893986
 http://duramecho.com/ComputerInformation/WhyHowCppConst.html
 https://docs.microsoft.com/en-us/windows/desktop/secauthz/access-tokens
@@ -44,3 +40,6 @@ https://en.m.wikipedia.org/wiki/X86_memory_segmentation
 https://www.cnblogs.com/swnuwangyun/p/4062172.html
 https://www.cnblogs.com/yzy6806555/archive/2013/05/22/3092905.html
 https://blog.delphij.net/2009/10/free.html
+https://www.cnblogs.com/meteoric_cry/p/5063288.html
+https://www.cnblogs.com/jfzhu/p/4020928.html
+https://bbs.pediy.com/thread-223105.htm
