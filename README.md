@@ -19,10 +19,6 @@ https://www.google.com.hk/amp/s/kknews.cc/tech/yye5o5g.amp
 https://chenzehe.iteye.com/blog/1703429
 https://social.technet.microsoft.com/Forums/en-US/6daf3995-d7dc-4026-a6b8-ecfbfaae8f24/what-is-a-business-edition-and-consumer-edition-feature-update-in-windows-10-1709-version?forum=ConfigMgrCBOSD
 https://www.cnblogs.com/hjgods/p/3998570.html
-https://www.cnblogs.com/jesse131/p/4888857.html
-https://www.cnblogs.com/mimifeng/p/9542404.html
-https://www.cnblogs.com/xiangru0921/p/6501082.html
-https://www.cnblogs.com/chengzp/p/7757844.html
 http://www.cnblogs.com/gushiren/p/9512531.html
 http://www.cnblogs.com/PBDragon/p/5383906.html
 https://blog.csdn.net/codes_first/article/details/78279641
@@ -43,3 +39,8 @@ https://blog.delphij.net/2009/10/free.html
 https://www.cnblogs.com/meteoric_cry/p/5063288.html
 https://www.cnblogs.com/jfzhu/p/4020928.html
 https://bbs.pediy.com/thread-223105.htm
+https://stackoverflow.com/questions/771756/what-is-the-difference-between-cygwin-and-mingw
+https://jingyan.baidu.com/article/f7ff0bfc1cd72c2e26bb13aa.html
+https://blog.csdn.net/jchnlau/article/details/38842187
+https://www.imooc.com/article/4435
+https://blog.csdn.net/u012787710/article/details/48589629
