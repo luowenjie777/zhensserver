@@ -45,3 +45,8 @@ https://blog.csdn.net/jchnlau/article/details/38842187
 https://www.imooc.com/article/4435
 https://blog.csdn.net/u012787710/article/details/48589629
 https://www.cnblogs.com/atong/p/3425926.html
+https://zh.m.wikipedia.org/wiki/%E8%9D%B6%E6%81%8B%E8%8A%B1
+https://zhidao.baidu.com/question/55879205.html?entrytime=1547536508775&fr=wenda_ala&ms=1&rid=11418200145967425522&word=%E6%AD%BB%E7%94%9F%E4%BB%8E%E6%AD%A4%E5%90%84%E8%A5%BF%E4%B8%9C
+https://www.google.com/amp/s/m.poemhunter.com/poem-amp/the-paradox-of-time-2/
+https://media.weibo.cn/article?id=2309403944881939723133&jumpfrom=weibocom
+http://www.cnblogs.com/TenosDoIt/p/3203137.html
