@@ -50,3 +50,6 @@ https://zhidao.baidu.com/question/55879205.html?entrytime=1547536508775&fr=wenda
 https://www.google.com/amp/s/m.poemhunter.com/poem-amp/the-paradox-of-time-2/
 https://media.weibo.cn/article?id=2309403944881939723133&jumpfrom=weibocom
 http://www.cnblogs.com/TenosDoIt/p/3203137.html
+https://www.psychologytoday.com/us/blog/science-choice/201504/what-is-confirmation-bias
+https://paper.seebug.org/762/
+https://paper.seebug.org/778/
