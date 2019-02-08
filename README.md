@@ -1,5 +1,3 @@
-https://blog.csdn.net/dpsying/article/details/51893986
-http://duramecho.com/ComputerInformation/WhyHowCppConst.html
 https://docs.microsoft.com/en-us/windows/desktop/secauthz/access-tokens
 http://www.cnblogs.com/dolphinX/p/3474568.html
 http://www.cnblogs.com/dolphinX/p/3475090.html
@@ -15,7 +13,6 @@ https://www.quora.com/Do-all-Linux-programs-work-on-all-distributions
 https://stackoverflow.com/questions/42461279/how-to-deploy-a-react-app-on-apache-web-server
 https://stackoverflow.com/questions/35062852/npm-vs-bower-vs-browserify-vs-gulp-vs-grunt-vs-webpack
 https://www.cnblogs.com/gzhnan/articles/8685985.html
-https://www.google.com.hk/amp/s/kknews.cc/tech/yye5o5g.amp
 https://chenzehe.iteye.com/blog/1703429
 https://social.technet.microsoft.com/Forums/en-US/6daf3995-d7dc-4026-a6b8-ecfbfaae8f24/what-is-a-business-edition-and-consumer-edition-feature-update-in-windows-10-1709-version?forum=ConfigMgrCBOSD
 https://www.cnblogs.com/hjgods/p/3998570.html
@@ -40,16 +37,11 @@ https://www.cnblogs.com/meteoric_cry/p/5063288.html
 https://www.cnblogs.com/jfzhu/p/4020928.html
 https://bbs.pediy.com/thread-223105.htm
 https://stackoverflow.com/questions/771756/what-is-the-difference-between-cygwin-and-mingw
-https://jingyan.baidu.com/article/f7ff0bfc1cd72c2e26bb13aa.html
-https://blog.csdn.net/jchnlau/article/details/38842187
-https://www.imooc.com/article/4435
-https://blog.csdn.net/u012787710/article/details/48589629
 https://www.cnblogs.com/atong/p/3425926.html
 https://zh.m.wikipedia.org/wiki/%E8%9D%B6%E6%81%8B%E8%8A%B1
-https://zhidao.baidu.com/question/55879205.html?entrytime=1547536508775&fr=wenda_ala&ms=1&rid=11418200145967425522&word=%E6%AD%BB%E7%94%9F%E4%BB%8E%E6%AD%A4%E5%90%84%E8%A5%BF%E4%B8%9C
-https://www.google.com/amp/s/m.poemhunter.com/poem-amp/the-paradox-of-time-2/
-https://media.weibo.cn/article?id=2309403944881939723133&jumpfrom=weibocom
 http://www.cnblogs.com/TenosDoIt/p/3203137.html
-https://www.psychologytoday.com/us/blog/science-choice/201504/what-is-confirmation-bias
-https://www.poetryfoundation.org/poems/44302/ode-on-the-death-of-a-favourite-cat-drowned-in-a-tub-of-goldfishes
-https://fanti.dugushici.com/ancient_proses/70639
+https://www.cnblogs.com/lucari/p/4608549.html
+https://www.cnblogs.com/lucari/p/4608550.html
+https://www.youtube.com/playlist?list=PLbYMfMn1wPGUuKhnQ-upR7e5NVj_-hMrO
+https://zh.wikipedia.org/wiki/%E5%BF%98%E4%BA%86%E3%80%81%E5%BF%98%E4%B8%8D%E4%BA%86
+https://blog.csdn.net/karamos/article/details/80131210
