@@ -47,7 +47,3 @@ https://zh.wikipedia.org/wiki/%E5%BF%98%E4%BA%86%E3%80%81%E5%BF%98%E4%B8%8D%E4%B
 https://blog.csdn.net/karamos/article/details/80131210
 https://www.cnblogs.com/zuihongyan/p/5649287.html
 https://edition.cnn.com/2018/10/01/economy/china-currency-yuan-rmb/index.html
-http://www.ouhk.edu.hk/REG/reg_tat/Course_Timetable.pdf
-http://www.ouhk.edu.hk/wcsprd/Satellite?c=C_ITU&cid=191233005400&d=Touch&l=C_ITU&lang=chi&lid=191235000600&mid=0&pagename=OUHK%2FtcSubWeb
-
-https://www.deepwebsiteslinks.com/how-to-access-the-deep-web/#accessthedeepweb
