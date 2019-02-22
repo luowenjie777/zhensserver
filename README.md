@@ -47,3 +47,4 @@ https://zh.wikipedia.org/wiki/%E5%BF%98%E4%BA%86%E3%80%81%E5%BF%98%E4%B8%8D%E4%B
 https://blog.csdn.net/karamos/article/details/80131210
 https://www.cnblogs.com/zuihongyan/p/5649287.html
 https://edition.cnn.com/2018/10/01/economy/china-currency-yuan-rmb/index.html
+http://tech.saigonist.com/b/code/phantomjs-vs-selenium-scraping-and-automated-testing.html
