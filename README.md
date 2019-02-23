@@ -42,9 +42,6 @@ https://zh.m.wikipedia.org/wiki/%E8%9D%B6%E6%81%8B%E8%8A%B1
 http://www.cnblogs.com/TenosDoIt/p/3203137.html
 https://www.cnblogs.com/lucari/p/4608549.html
 https://www.cnblogs.com/lucari/p/4608550.html
-https://www.youtube.com/playlist?list=PLbYMfMn1wPGUuKhnQ-upR7e5NVj_-hMrO
-https://zh.wikipedia.org/wiki/%E5%BF%98%E4%BA%86%E3%80%81%E5%BF%98%E4%B8%8D%E4%BA%86
 https://blog.csdn.net/karamos/article/details/80131210
 https://www.cnblogs.com/zuihongyan/p/5649287.html
-https://edition.cnn.com/2018/10/01/economy/china-currency-yuan-rmb/index.html
-http://tech.saigonist.com/b/code/phantomjs-vs-selenium-scraping-and-automated-testing.html
+https://edition-m.cnn.com/2018/03/02/health/hong-kong-world-longest-life-expectancy-longevity-intl/index.html?r=https%3A%2F%2Fwww.google.com%2F
