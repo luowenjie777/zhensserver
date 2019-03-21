@@ -7,7 +7,6 @@ https://cnodejs.org/topic/4f16442ccae1f4aa270010ab
 http://www.cnblogs.com/wzgj/p/8866874.html
 https://www.cnblogs.com/webph/p/6261727.html
 http://javascript.ruanyifeng.com/nodejs/packagejson.html
-https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=184374&page=1&mobile=2
 https://www.infoq.cn/article/nodejs-npm-install-config
 https://www.quora.com/Do-all-Linux-programs-work-on-all-distributions
 https://stackoverflow.com/questions/42461279/how-to-deploy-a-react-app-on-apache-web-server
