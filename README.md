@@ -11,8 +11,6 @@ https://www.infoq.cn/article/nodejs-npm-install-config
 https://www.quora.com/Do-all-Linux-programs-work-on-all-distributions
 https://stackoverflow.com/questions/42461279/how-to-deploy-a-react-app-on-apache-web-server
 https://stackoverflow.com/questions/35062852/npm-vs-bower-vs-browserify-vs-gulp-vs-grunt-vs-webpack
-https://www.cnblogs.com/gzhnan/articles/8685985.html
-https://chenzehe.iteye.com/blog/1703429
 https://social.technet.microsoft.com/Forums/en-US/6daf3995-d7dc-4026-a6b8-ecfbfaae8f24/what-is-a-business-edition-and-consumer-edition-feature-update-in-windows-10-1709-version?forum=ConfigMgrCBOSD
 https://www.cnblogs.com/hjgods/p/3998570.html
 http://www.cnblogs.com/gushiren/p/9512531.html
@@ -56,3 +54,7 @@ https://zh.m.wikipedia.org/zh-hk/%E4%BA%9E%E6%B4%B2%E9%87%91%E8%9E%8D%E5%8D%B1%E
 http://blog.sina.com.cn/s/blog_48fb6f6f01014brg.html
 https://www.investopedia.com/ask/answers/032515/what-difference-between-real-and-nominal-interest-rates.asp
 https://computer.howstuffworks.com/mp32.htm
+https://electronicscoach.com/difference-between-diode-and-transistor.html
+https://www.cnblogs.com/gzhnan/articles/8685985.html
+https://www.edgefxkits.com/blog/what-is-risc-and-cisc-architecture/
+https://chenzehe.iteye.com/blog/1703429
