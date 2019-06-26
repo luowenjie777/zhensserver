@@ -1,1 +1,1 @@
-https://zh.wikipedia.org/wiki/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89
+https://zh.wikipedia.org/wiki/610%E5%8A%9E%E5%85%AC%E5%AE%A4#cite_note-Tong-12
