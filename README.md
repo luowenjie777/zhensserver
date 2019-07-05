@@ -139,7 +139,14 @@ https://zh.wikipedia.org/wiki/%E5%8C%97%E7%BE%8E%E8%87%AA%E7%94%B1%E8%B4%B8%E6%9
 https://zh.wikipedia.org/zh-hk/%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F
 https://zh.wikipedia.org/wiki/%E5%85%B1%E6%B5%8E%E4%BC%9A
 https://zh.wikipedia.org/zh-hk/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%85%AC%E7%BA%A6%E7%BB%84%E7%BB%87
-https://stealjobs.com/make-good-use-of-the-q-and-a-section-at-interview/
 https://www.ted.com/talks/yuval_noah_harari_why_fascism_is_so_tempting_and_how_your_data_could_power_it/transcript?language=zh-tw#t-5246
-https://www.youtube.com/watch?v=S2TRnnE3pQs
-https://baijiahao.baidu.com/s?id=1609866391316955746&wfr=spider&for=pc
+https://en.m.wikipedia.org/wiki/Ada_Lovelace
+https://en.m.wikipedia.org/wiki/Dennis_Ritchie
+https://www.youtube.com/watch?v=9oJoVtKoCzA
+https://www.youtube.com/watch?v=7Gxxy75k8tU
+https://en.m.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+https://zh.wikipedia.org/wiki/%E9%99%B3%E6%96%87%E6%88%90
+https://zh.wikipedia.org/wiki/%E8%A9%B9%E7%9B%8A%E6%A8%BA
+https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95
+https://zh.wikipedia.org/wiki/%E9%99%B3%E6%99%BA%E9%9B%84
+https://zh.wikipedia.org/wiki/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88
